@@ -22,6 +22,5 @@ poetry install
 ## test
 
 ```shell
-poetry shell
-pytest
+poetry run pytest
 ```
