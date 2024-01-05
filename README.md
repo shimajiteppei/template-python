@@ -16,7 +16,7 @@ My tiny Python repository template
 
 ```shell
 pyenv shell --unset
-poetry install
+poetry install --no-cache
 ```
 
 ## test
